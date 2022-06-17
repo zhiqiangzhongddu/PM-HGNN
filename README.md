@@ -16,5 +16,5 @@ The code has been tested running under Python 3.8.1. with the following packages
 All datasets we used in the paper are all public datasets which can be downloaded from the internet (https://github.com/cynricfu/MAGNN/tree/master/data/raw).
 
 ### Code execution
-Two ipynb files present the example experiments of RL-HGNN and RL-HGNN++ models on IMDb dataset.
+Two ipynb files present the example experiments of PM-HGNN and PM-HGNN++ models on IMDb dataset.
 
